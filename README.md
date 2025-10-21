@@ -1,4 +1,4 @@
-## Lesson 07 - Stored Procedures
+## Stored Procedures
 
 * **Stored Procedures vs. Views**
 

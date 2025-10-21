@@ -249,7 +249,8 @@ WHERE id = p_client_id;
 ```sql
 -- Inserts a new transaction
 INSERT INTO transactions (transaction_type, descript, value_limit, customer_id)
-VALUES (p_type, p_description, p_value, p_client_id); ```
+VALUES (p_type, p_description, p_value, p_client_id);
+```
 
 * Finally, a new transaction is inserted into the `transactions` table with the provided details.
 
